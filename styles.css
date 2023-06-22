@@ -1,16 +1,16 @@
 /*  your css code here. If applicable */
 .imageContainer{
 	width:1100px;
-	display:flex;
-	flex-direction:column;
+	/*display:flex;
+	flex-direction:column;*/
 }
-.first,.second{
+/*.first,.second{
 	width:100vw;
 	height:50vh;
 	display:flex;
-	background-color:red;
+	background-color:red;*/
 }
-.pic{
+/*.pic{
 	width:200px;
-	}
+	}*/
 
